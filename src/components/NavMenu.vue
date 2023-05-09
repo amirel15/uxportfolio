@@ -8,10 +8,12 @@ const brand = ref("Ashley's UX Portfolio 💻")
     <div class="wrapper">
       <div class="brand">
         <span class="brand-title"> {{ brand }}</span>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/project1">Project 1</RouterLink>
-        <RouterLink to="/project2">Project 2</RouterLink>
-        <RouterLink to="/project3">Project 3</RouterLink>
+      </div>
+      <div class="menu">
+        <RouterLink to="/">     Home     </RouterLink>
+        <RouterLink to="/project1">     Project 1     </RouterLink>
+        <RouterLink to="/project2">     Project 2     </RouterLink>
+        <RouterLink to="/project3">     Project 3     </RouterLink>
       </div>
     </div>    
   </nav>
@@ -26,6 +28,9 @@ nav {
         &-title {
           @apply text-2xl font-bold text-slate-200;
         }
+      }
+      .menu {
+        @apply font-bold;
       }
       }
     

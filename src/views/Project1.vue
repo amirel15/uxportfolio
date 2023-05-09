@@ -6,7 +6,7 @@
     <div class="overview">
         <div class="ptitle">Project Overview</div>
         <div class="pbody">
-            <b>The Product:</b> MetroU Hospital is an institution that has been around since the early 2000s. It is the go to place in the
+            <br/><b>The Product:</b> MetroU Hospital is an institution that has been around since the early 2000s. It is the go to place in the
             metropolitan area for all your medical needs from routine to emergency.
             <br/><b>Project Duration:</b> January 2023 - May 2023
             <br/><b>The Problem:</b> Hospital employees have to use an internet browser on a desktop or go in person to find
