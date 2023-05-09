@@ -1,7 +1,7 @@
 <template>
     <div class="wrapper">
         <div class="title">
-            Project 3:<br/>Finding Stores Application
+            Project 2:<br/>Finding Stores Application
         </div>
         <div class="overview">
             <div class="ptitle">Project Overview</div>
